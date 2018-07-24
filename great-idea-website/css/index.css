@@ -64,3 +64,40 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.header{
+	height: 50px;
+	padding-bottom: 50px;
+}
+
+.Nav-Buttons a{
+	color:lightgrey;
+	text-decoration: none;
+	float: left;
+	padding: 20px;
+}
+
+.logo{
+	float: right;
+	padding: 10px;
+}
+
+.CTA-Description{
+	float: left;
+}
+.CTA-Image{
+/* 	float: left; */
+}
+
+.Get-Started-Button{
+	width: 100px;
+	border:1px solid black;
+}
+.Get-Started-Button p {
+	padding: 50px;
+}
+
+.CTA-Text{
+	text-align: center;
+	font-size: 60px;
+}
