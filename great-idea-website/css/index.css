@@ -83,10 +83,10 @@ h1, h2, h3, h4, h5 {
 }
 
 .CTA-Description{
-	float: left;
+	display: inline-block;
 }
 .CTA-Image{
-/* 	float: left; */
+	display: inline-block;
 }
 
 .Get-Started-Button{
@@ -100,4 +100,12 @@ h1, h2, h3, h4, h5 {
 .CTA-Text{
 	text-align: center;
 	font-size: 60px;
+}
+
+.features{
+	display: inline-block;
+}
+
+.about{
+
 }
